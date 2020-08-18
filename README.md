@@ -42,7 +42,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Many](https://www.many.co.uk)**
 - **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
 - **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+- **[Tutorial Resource](https://www.itsolutionstuff.com/post/laravel-6-rest-api-with-passport-tutorialexample.html)**
 
 ## Contributing
 
